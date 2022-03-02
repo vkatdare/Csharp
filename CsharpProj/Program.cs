@@ -28,8 +28,8 @@ namespace CsharpProj
 
         private static float Mult()
         {
-            var result = n1 * n2;
-            return result;
+
+            return n1 * n2;
         }
 
         private static float Divide()
