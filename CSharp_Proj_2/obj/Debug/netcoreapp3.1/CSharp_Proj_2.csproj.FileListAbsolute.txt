@@ -1,0 +1,13 @@
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/bin/Debug/netcoreapp3.1/CSharp_Proj_2.deps.json
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/bin/Debug/netcoreapp3.1/CSharp_Proj_2.runtimeconfig.json
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/bin/Debug/netcoreapp3.1/CSharp_Proj_2.runtimeconfig.dev.json
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/bin/Debug/netcoreapp3.1/CSharp_Proj_2.dll
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/bin/Debug/netcoreapp3.1/CSharp_Proj_2.pdb
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/obj/Debug/netcoreapp3.1/CSharp_Proj_2.csproj.AssemblyReference.cache
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/obj/Debug/netcoreapp3.1/CSharp_Proj_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/obj/Debug/netcoreapp3.1/CSharp_Proj_2.AssemblyInfoInputs.cache
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/obj/Debug/netcoreapp3.1/CSharp_Proj_2.AssemblyInfo.cs
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/obj/Debug/netcoreapp3.1/CSharp_Proj_2.csproj.CoreCompileInputs.cache
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/obj/Debug/netcoreapp3.1/CSharp_Proj_2.dll
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/obj/Debug/netcoreapp3.1/CSharp_Proj_2.pdb
+/Users/vkatdare/Projects/CsharpProj/CSharp_Proj_2/obj/Debug/netcoreapp3.1/CSharp_Proj_2.genruntimeconfig.cache
