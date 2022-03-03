@@ -59,6 +59,11 @@ namespace CSharp_Proj_2.Classes
         }
     }
 
+    interface IOperations
+    {
+        float Remainder(float divident, float devisor);
+    }
+
     public class ChildBankAccount : BankAccount
     {
         public string Parent { get; set; }
@@ -82,6 +87,14 @@ namespace CSharp_Proj_2.Classes
                 return base.AddBalance(newBalance, balanceCanBeNeg);
             else
                 return Balance;
+        }
+    }
+
+    class AdvanceMath : SimpleMath, IOperations
+    {
+        float IOperations.Remainder(float divident, float devisor)
+        {
+            return divident % devisor;
         }
     }
 }

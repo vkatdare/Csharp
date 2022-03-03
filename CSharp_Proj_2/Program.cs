@@ -7,6 +7,9 @@ namespace CSharp_Proj_2
     {
         static void Main(string[] args)
         {
+            IOperations am = new AdvanceMath();
+            Console.WriteLine(am.Remainder(10, 3));
+
             BankAccount bankAccount1 = new BankAccount("Jane", 125461f);
             ChildBankAccount bankAccount2 = new ChildBankAccount("Bob", 1334f, "Jane");
 
